@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukeNarke.
-- 👀 I’m interested in React.
+- 👀 I’m interested in a remote React career.
 - 🌱 I’m currently learning Next.js and Tailwind CSS.
 - 📫 Reach me via email: LNarke@gmail.com 
 
