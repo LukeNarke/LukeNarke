@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @LukeNarke.
+- 👋 Howdy, I’m @LukeNarke.
 - 👀 I’m interested in a remote React-JS Web Developer career!
 - 🌱 I’m currently learning Next.js and Tailwind CSS.
 - 📫 Please reach me via email: LNarke@gmail.com.
