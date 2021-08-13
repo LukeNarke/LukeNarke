@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @LukeNarke.
 - 👀 I’m interested in a remote React-JS Web Developer career!
-- 🌱 I’m currently learning Next.js and Tailwind CSS.
 - 📫 Please reach me via email: LNarke@gmail.com.
+- ✔ To see my highest-quality project visit: kobrastance.vercel.app
 
 <!---
 LukeNarke/LukeNarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
