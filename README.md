@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @LukeNarke.
-- 👀 I’m interested in a remote ReactJS Web Developer career!
+- 👀 I’m interested in a remote NextJS / ReactJS Web Developer career!
 - 📫 Please reach me via email: LNarke@gmail.com 
 - 😄 My personal website is: https://lukenarke.netlify.app/ 
 - ✅ To see my highest-quality project visit: https://kobrastance.vercel.app/
