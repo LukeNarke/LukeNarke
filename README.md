@@ -4,7 +4,7 @@
 - 😄 My personal website is: https://lukenarke.netlify.app/ 
 - ✅ To see my company's website visit: https://kobrastance.vercel.app/
 - 🔼 Was made with NextJS, Tailwind CSS, MongoDB, Typescript, and more!! 
-- 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my production websites during an interview process. 
+- 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my production websites during an interview process! 
 
 
 <!---
