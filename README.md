@@ -3,7 +3,7 @@
 - 📫 Please contact me via email at: LNarke@gmail.com 
 - 😄 My personal website is: https://lukenarke.netlify.app/ 
 - ✅ To see my company's website visit: https://kobrastancepublishing.com/
-- 🔼 Was made with NextJS, Tailwind CSS, MongoDB, Typescript, and more!! 
+- 🔼 Was made with Javascript, NextJS, MongoDB, Express, React, Node, and more!! 
 - 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my production websites during an interview process! 
 
 
