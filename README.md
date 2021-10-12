@@ -2,7 +2,7 @@
 - 👀 I’m interested in a remote React Web Developer / Software Developer career!
 - 📫 Please contact me via email at: LNarke@gmail.com 
 - 😄 My personal website is: https://lukenarke.netlify.app/ 
-- ✅ To see my company's website visit: https://kobrastance.vercel.app/
+- ✅ To see my company's website visit: https://kobrastancepublishing.com/
 - 🔼 Was made with NextJS, Tailwind CSS, MongoDB, Typescript, and more!! 
 - 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my production websites during an interview process! 
 
