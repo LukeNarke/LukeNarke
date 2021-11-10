@@ -4,7 +4,7 @@
 - 😄 My personal / portfolio website is: https://lukenarke.netlify.app/ 
 - ✅ To see the company's website visit: https://kobrastancepublishing.com/
 - 🔼 Was made with Javascript, NextJS, MongoDB, Express, React, Node, and more!! 
-- 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my production websites during an interview process! 
+- 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my production websites during the interview process! 
 
 
 <!---
