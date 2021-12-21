@@ -1,5 +1,5 @@
 - 👋 Hello, I am @LukeNarke
-- 👀 I currently work as a Remote React (Software) Developer, specializing in NextJS and TailwindCSS!
+- 👀 I currently work as a Remote React (Software) Developer, specializing in NextJS and TailwindCSS
 - 📫 Please contact me via email at: LNarke@gmail.com 
 - 😄 My personal / portfolio website is: https://lukenarke.netlify.app/ 
 - ✅ To see the company's website that I've built by myself visit: https://kobrastancepublishing.com/
