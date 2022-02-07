@@ -2,7 +2,7 @@
 - 👀 Remote React Developer, specializing in NextJS and TailwindCSS
 - 📫 Please contact me via email at: LNarke@gmail.com 
 - 😄 My personal / portfolio website is: https://lukenarke.netlify.app/ 
-- ✅ To see one of my freelancce company's website that I've built completely by myself visit: https://kobrastancepublishing.com/
+- ✅ To see one of my freelancce company's website I've built completely by myself visit: https://kobrastancepublishing.com/
 - 🔼 Was made with Javascript, NextJS, MongoDB, Express, React, Node, and more!
 - 🔻 All repositories below are projects to showcase my ability. I am more than happy to go through the code of my private production websites during an interview process. 
 
