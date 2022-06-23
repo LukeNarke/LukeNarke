@@ -1,5 +1,5 @@
 - 👋 Howdy I'm Luke
-- 👀 Remote React Developer specializing in NextJS and TailwindCSS at Corra
+- 👀 Remote React Developer at Corra
 - 📫 Contact at LNarke@gmail.com  
 - 😄 My personal / portfolio website is https://lukenarke.netlify.app/ 
 - ✅ To see one of my freelancce company's website I've built completely by myself visit: https://kobrastancepublishing.com/
