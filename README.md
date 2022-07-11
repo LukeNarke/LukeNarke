@@ -1,4 +1,4 @@
-- 👋 Howdy folks
+- 👋 Howdy everyone
 - 👀 Remote React Developer at Corra
 - 📫 Contact at LNarke@gmail.com  
 - 😄 My personal / portfolio website is https://lukenarke.netlify.app/ 
