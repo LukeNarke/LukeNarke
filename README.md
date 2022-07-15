@@ -1,4 +1,4 @@
-- 👋 Howdy 
+- 👋 Howdy!
 - 👀 Remote React Developer
 - 📫 Contact at LNarke@gmail.com  
 - 😄 My personal / portfolio website is https://lukenarke.netlify.app/ 
