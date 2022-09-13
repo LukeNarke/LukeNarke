@@ -1,6 +1,6 @@
 - 👋 Howdy
 - 👀 Remote Senior Software Engineer
-- 📫 Contact at LNarke@gmail.com  
+- 📫 Contact: LNarke@gmail.com  
 - 😄 My personal / portfolio website is https://lukenarke.netlify.app/ 
 - ✅ To see one of my company's website I've built completely by myself visit: https://kobrastancepublishing.com/
 - 🔼 Was made with Javascript, NextJS, MongoDB, Express, React, Node, and more!
