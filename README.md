@@ -1,4 +1,4 @@
-- 👋 Howdy
+- 👋 Howdy!
 - 👀 Remote Senior Software Engineer
 - 📫 Contact: LNarke@gmail.com  
 - 😄 My personal / portfolio website is https://lukenarke.netlify.app/ 
