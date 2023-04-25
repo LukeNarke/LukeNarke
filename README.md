@@ -1,5 +1,5 @@
 - 👋 Howdy!
-- 👀 Software Engineer
+- 👀 Software Engineer - JavaScript (React, Next.js, & Node)
 - 📫 Contact: LNarke@gmail.com  
 - 😄 My personal / portfolio website is https://lukenarke.netlify.app/ 
 - 🔻 All repositories below are examples to showcase my ability
