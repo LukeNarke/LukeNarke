@@ -1,6 +1,5 @@
 - 👋 Howdy!
-- 👀 Software Engineer - JavaScript && TypeScript -- (React, Next.js, & Node)
-- 📫 Contact: LNarke@gmail.com  
+- 👀 Software Engineer - JavaScript && TypeScript -- (React, Next.js, & Node) 
 - 😄 My personal / portfolio website is https://portfolio-ln.vercel.app/ 
 - 🔻 All repositories below are examples to showcase my ability
 
